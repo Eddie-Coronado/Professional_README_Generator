@@ -1,0 +1,22 @@
+{
+  "name": "professional_readme_generator",
+  "version": "1.0.0",
+  "description": "Creating README.md generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eddie-Coronado/Professional_README_Generator.git"
+  },
+  "author": "Eddie Coronado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eddie-Coronado/Professional_README_Generator/issues"
+  },
+  "homepage": "https://github.com/Eddie-Coronado/Professional_README_Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
