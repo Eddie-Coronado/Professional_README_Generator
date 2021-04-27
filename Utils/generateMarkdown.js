@@ -83,11 +83,11 @@ ${renderLicenseLink(data.license)}
 ${data.description}
 
 ## Table of Contents
-[Description](##Description)
-[Usage](##Usage)
-[Credits](##Credits)
-[Questions](##Questions)
-[License](##License)
+[Description](#description)
+[Usage](#usage)
+[Credits](#credits)
+[Questions](#questions)
+[License](#license)
 
 ## Usage
 ${data.usage}

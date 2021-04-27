@@ -1,6 +1,6 @@
 
 
-# undefined
+# Professional README Generator
 
 ## Badges
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -10,11 +10,11 @@ https://choosealicense.com/licenses/isc/
 This project is designed to quickly and easily create a README file by using a command-line application. This allows the project creator to devote more time to working on the project instead of spending additional time setting up the format of their README.md file. This project utilized the node index.js command.
 
 ## Table of Contents
-[Description](##Description)
-[Usage](##Usage)
-[Credits](##Credits)
-[Questions](##Questions)
-[License](##License)
+[Description](#description)
+[Usage](#usage)
+[Credits](#credits)
+[Questions](#questions)
+[License](#license)
 
 ## Usage
 Once you run npm install inquirer use node index.js and enter in the information based on the prompted messages.
