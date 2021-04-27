@@ -28,7 +28,7 @@ function renderLicenseSection(license) {
   if (license === "MIT") {
     return `MIT License
 
-  Copyright (c) [2021] [Eddie Coronado]
+  Copyright (c) 2021, Eddie Coronado
   
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
@@ -50,7 +50,7 @@ function renderLicenseSection(license) {
   } else if (license === "NPM") {
     return `ISC License
 
-  Copyright (c) [2021], [Eddie Coronado]
+  Copyright (c) 2021, Eddie Coronado
   
   Permission to use, copy, modify, and/or distribute this software for any
   purpose with or without fee is hereby granted, provided that the above

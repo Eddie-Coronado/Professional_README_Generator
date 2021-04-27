@@ -23,7 +23,7 @@ const questions = [
     {
         type: 'input',
         name: 'credits',
-        message: 'Please add all your contribution'
+        message: 'Please add all the contributors.'
     },
     {
         type: 'list',
